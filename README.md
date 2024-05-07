@@ -8,10 +8,7 @@ This repository contains a Jupyter Notebook dedicated to predicting sales using 
 - [Features](#features)
 - [Modeling Approach](#modeling-approach)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 The primary goal of this project is to forecast future avocado sales based on historical data. The project includes data preparation, feature engineering, model selection, and evaluation.
